@@ -262,6 +262,10 @@ h3 {
         height: 150vh;
     }
 
+    .container-about p {
+        font-size: 1rem;
+    }
+
  }
 
 
